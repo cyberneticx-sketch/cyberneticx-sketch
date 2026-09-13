@@ -1,139 +1,64 @@
-# ARWYN — Frontend Developer
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/7o62/7o62/main/Assets/coding.gif" width="200" alt="Animated Coding GIF" style="margin-bottom: -20px;" />
+
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20👋,%20I'm%20ARWYN&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20%26%20Tailwind%20Enthusiast&descAlignY=51&animation=fadeIn" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B06AB3,100:4568DC&height=200&section=header&text=Hi%20👋,%20I'm%20ARWYN&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20Crafting%20Digital%20Experiences&descAlignY=55&animation=twinkling&fontColor=ffffff" alt="Aurora Header" width="100%" />
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+space;Building+responsive+web+experiences;Frontend+%7C+React+%7C+Tailwind+CSS;Always+learning%2C+always+building" alt="Typing animation" />
-</div>
-
-<p align="center">Frontend developer who loves building responsive, accessible, and beautiful web experiences. I focus on React, Tailwind CSS, and modern frontend patterns.</p>
-
----
-
-## 📊 Live Status
+<br/>
 
 <div align="center">
-  
-| Status | Details |
-|--------|---------|
-| 🎯 **Currently** | Building interactive UI components |
-| 💼 **Open to** | Freelance & Full-time opportunities |
-| 🌱 **Learning** | Advanced React patterns & Web Performance |
-| 💬 **Ask me about** | React, Tailwind CSS, Frontend Architecture |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=B06AB3&center=true&vCenter=true&width=500&lines=Designing+beautiful+interfaces...;Building+responsive+web+apps...;Turning+ideas+into+reality...;Always+learning,+always+coding..." alt="Typing animation" />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" alt="animated neon divider" />
 </div>
 
----
+ 
 
-## 📬 Contact
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" alt="animated neon divider" />
+</div>
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35" alt="Laptop"/> Tech Arsenal</h2>
+
+<br/>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-00C9FF?style=for-the-badge&logo=gmail&logoColor=white&borderColor=00C9FF&border=2" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=00C9FF&border=2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-00C9FF?style=for-the-badge&logo=x&logoColor=white&borderColor=00C9FF&border=2" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/cyberneticx-sketch">
-    <img src="https://img.shields.io/badge/GitHub-00C9FF?style=for-the-badge&logo=github&logoColor=white&borderColor=00C9FF&border=2" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongo,mysql,java,linux,figma,vscode&theme=dark&perline=7" alt="Tech stack" />
   </a>
 </p>
 
-> 💡 **Tip**: Replace the placeholder links above with your actual contact information.
-
----
-
-## 🚀 What I Build
-
 <div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│  Responsive Single-Page Apps with React │
-│  Component-Driven UI & Design Systems   │
-│  Interactive & Accessible Experiences   │
-│  Full-Stack Prototypes (Node.js + DB)  │
-└─────────────────────────────────────────┘
-```
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" alt="animated neon divider" />
 </div>
 
-- ⚡ Responsive single-page apps with **React** and **Tailwind CSS**
-- 🎨 Component-driven UIs with design-system thinking
-- ♿ Interactive frontends with accessibility-first approach
-- 🔗 Full-stack prototypes using **Node.js**, **MongoDB**, and **MySQL**
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" height="35" alt="Trophy"/> Stats & Achievements</h2>
 
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongo,mysql,java,linux,figma,vscode&theme=dark&perline=8" alt="Tech stack" />
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cyberneticx-sketch&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a> 
 </p>
 
-<p align="center">
-  <strong>Languages:</strong> JavaScript | TypeScript | Java | HTML/CSS
-  <br>
-  <strong>Frontend:</strong> React | Tailwind CSS | Next.js
-  <br>
-  <strong>Backend:</strong> Node.js | Express | MongoDB | MySQL
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberneticx-sketch&show_icons=true&locale=en&theme=dracula&hide_border=true&hide_bg=true&text_color=ffffff&icon_color=B06AB3&title_color=4568DC" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberneticx-sketch&layout=compact&theme=dracula&hide_border=true&hide_bg=true&text_color=ffffff&title_color=4568DC" alt="Top languages" width="48%" />
+</div>
 
----
-
-## 📈 GitHub Analytics
+<br/>
 
 <div align="center">
-
-### Activity Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=cyberneticx-sketch&show_icons=true&locale=en&theme=tokyonight&hide_border=false&bg_color=0D1117&text_color=00C9FF&icon_color=92FE9D&ring_color=00C9FF&fire_border_color=92FE9D" alt="GitHub stats" width="100%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberneticx-sketch&theme=dracula&hide_border=true&background=transparent&stroke=B06AB3&fire=4568DC&ring=B06AB3" alt="Contribution streak" />
 </div>
 
 <div align="center">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberneticx-sketch&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&text_color=00C9FF&title_color=92FE9D" alt="Top languages" />
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" alt="animated neon divider" />
 </div>
 
-<div align="center">
-
-### Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberneticx-sketch&theme=tokyonight&hide_border=false&background=0D1117&stroke=00C9FF&fire=92FE9D&ring=00C9FF" alt="Contribution streak" />
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Project A** | [View Repo](https://github.com/cyberneticx-sketch/project-a) | React, Tailwind, Node.js |
-| **Project B** | [View Repo](https://github.com/cyberneticx-sketch/project-b) | Next.js, TypeScript, MongoDB |
-| **Project C** | [View Repo](https://github.com/cyberneticx-sketch/project-c) | React, Express, MySQL |
-
-</div>
-
----
-
-## 🐍 Contribution Graph
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" alt="Rocket"/> Contribution Graph</h2>
 
 <p align="center">
   <picture>
@@ -143,40 +68,8 @@
   </picture>
 </p>
 
----
-
-## 📝 Quick Setup Guide
-
-- [ ] Replace email in the **Contact** section
-- [ ] Update LinkedIn and Twitter profile links
-- [ ] Add your 3 featured projects with descriptions
-- [ ] Customize the **Currently** status in the Live Status section
-- [ ] Adjust skills and tech stack as needed
-
----
-
-## 🎨 Customization Tips
-
-**Change Colors:**
-- Replace `00C9FF` (cyan) and `92FE9D` (mint) with your preferred hex codes
-- Update the theme in chart URLs: `theme=tokyonight` → other options like `github_dark`, `dracula`, etc.
-
-**Add More Sections:**
-- Blog/Articles
-- Experience/Timeline
-- Certifications
-- Open Source Contributions
-
-**Performance:**
-- All external badges and stats are cached by their services
-- The snake animation runs on GitHub Actions (see `.github/workflows/`)
-
----
+<br/>
 
 <div align="center">
-  
-### Let's Connect! 🚀
-
-<img src="https://img.shields.io/badge/Made%20with%20%F0%9F%92%99%20and%20%E2%98%95-00C9FF?style=for-the-badge" alt="Made with love and coffee" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=4568DC&center=true&vCenter=true&width=350&lines=Made+with+coffee+and+code" alt="Footer" />
 </div>
