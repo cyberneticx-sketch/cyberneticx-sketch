@@ -1,13 +1,7 @@
 <div align="center">
-  <!-- Animated Coding Banner -->
-  <img src="https://raw.githubusercontent.com/7o62/7o62/main/Assets/coding.gif" width="100%" height="200" style="border-radius: 10px;" alt="Animated header" />
+  <!-- Animated Gradient Background Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20👋,%20I'm%20ARWYN!&fontSize=50&fontAlignY=35&desc=A%20passionate%20Frontend%20Developer%20from%20the%20Philippines%20🇵🇭&descSize=20&descAlignY=55&animation=twinkling" width="100%" alt="Animated Header" />
 </div>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi 👋, I'm ARWYN!
-</h1>
-
-<h3 align="center">A passionate Frontend Developer from the Philippines 🇵🇭</h3>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
@@ -56,7 +50,6 @@
 
 <h3 align="center">🏆 GitHub Achievements & Stats</h3>
 
-<!-- Animated Trophies (Using Radical Theme for Dark Mode) -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cyberneticx-sketch&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
@@ -76,7 +69,6 @@
 
 <h3 align="center">🐍 My Contribution Graph</h3>
 
-<!-- GitHub Snake Animation (Requires GitHub Actions Setup) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberneticx-sketch/cyberneticx-sketch/output/github-contribution-grid-snake-dark.svg">
