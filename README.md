@@ -77,14 +77,7 @@
     Achievements & Metrics
   </h2>
 
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyberneticx&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Stats & Streak Cards -->
+  <!-- Stats & Streak Cards (Reliable and fully color-matched) -->
   <a href="https://github.com/cyberneticx">
     <img src="https://github-readme-stats.vercel.app/api?username=cyberneticx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B06AB3&icon_color=4568DC" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberneticx&theme=tokyonight&hide_border=true&background=0D1117&ring=B06AB3&fire=4568DC&currStreakLabel=B06AB3" height="150" alt="GitHub Streak" />
@@ -98,7 +91,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B06AB3,100:4568DC&height=3&width=80%" alt="Divider" />
 </p>
 
-<!-- Footer -->
+<!-- Footer (Fixed URL-encoding for emojis and special characters) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=4568DC&center=true&vCenter=true&width=400&lines=Made+with+☕+coffee+and+code;Let's+connect+and+build+together!" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=4568DC&center=true&vCenter=true&width=450&lines=Made+with+coffee+and+code;Let%27s+connect+and+build+together!" alt="Footer Typing Animation" />
 </div>
