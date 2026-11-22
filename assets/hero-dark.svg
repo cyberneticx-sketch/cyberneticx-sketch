@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" fill="none" role="img" aria-label="cyberneticx — Frontend Developer">
+  <title>cyberneticx — Frontend Developer</title>
+  <defs>
+    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B06AB3"/>
+      <stop offset="52%" stop-color="#7B6CE6"/>
+      <stop offset="100%" stop-color="#4568DC"/>
+    </linearGradient>
+    <linearGradient id="auroraDiag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B06AB3" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#7B6CE6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#4568DC" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="glowTopRight" cx="84%" cy="18%" r="46%">
+      <stop offset="0%" stop-color="#B06AB3" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#4568DC" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBottomLeft" cx="14%" cy="88%" r="42%">
+      <stop offset="0%" stop-color="#4568DC" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="blueprintGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4568DC" stroke-opacity="0.11" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.15" fill="#67E8F9" fill-opacity="0.26"/>
+    </pattern>
+    <clipPath id="heroClip">
+      <rect x="1" y="1" width="858" height="238" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .cursor { animation: blink 1.15s steps(1, end) infinite; }
+    .pulse-ring { animation: pulse 2.6s ease-out infinite; transform-origin: 650px 35px; }
+    .sketch-flow { stroke-dasharray: 6 6; animation: dashFlow 14s linear infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes pulse { 0% { opacity: 0.75; transform: scale(1); } 70% { opacity: 0; transform: scale(2.1); } 100% { opacity: 0; transform: scale(2.1); } }
+    @keyframes dashFlow { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -48; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cursor, .pulse-ring, .sketch-flow { animation: none !important; }
+    }
+  </style>
+
+  <!-- Base Canvas and Blueprint Grid -->
+  <g clip-path="url(#heroClip)">
+    <rect x="0" y="0" width="860" height="240" fill="#0D1117"/>
+    <rect x="0" y="0" width="860" height="240" fill="url(#blueprintGrid)"/>
+    <rect x="0" y="0" width="860" height="240" fill="url(#glowTopRight)"/>
+    <rect x="0" y="0" width="860" height="240" fill="url(#glowBottomLeft)"/>
+    <!-- Top Aurora Hairline -->
+    <rect x="0" y="0" width="860" height="3" fill="url(#aurora)"/>
+
+    <!-- Right-side Architectural Cyber-Sketch Geometry -->
+    <g opacity="0.88">
+      <!-- Outer blueprint circle and crosshair -->
+      <circle cx="718" cy="142" r="64" stroke="#2A3448" stroke-width="1" stroke-dasharray="3 4"/>
+      <circle cx="718" cy="142" r="44" stroke="url(#auroraDiag)" stroke-width="1.25" class="sketch-flow"/>
+      <line x1="636" y1="142" x2="800" y2="142" stroke="#2A3448" stroke-width="1"/>
+      <line x1="718" y1="68" x2="718" y2="216" stroke="#2A3448" stroke-width="1"/>
+      <!-- Stylized wireframe window / UI frame -->
+      <rect x="668" y="106" width="100" height="72" rx="8" fill="#131924" fill-opacity="0.92" stroke="url(#aurora)" stroke-width="1.25"/>
+      <line x1="668" y1="122" x2="768" y2="122" stroke="#2A3448" stroke-width="1"/>
+      <circle cx="678" cy="114" r="2.3" fill="#B06AB3"/>
+      <circle cx="686" cy="114" r="2.3" fill="#7B6CE6"/>
+      <circle cx="694" cy="114" r="2.3" fill="#4568DC"/>
+      <!-- Code/UI wireframe strokes inside mini canvas -->
+      <rect x="678" y="131" width="38" height="6" rx="3" fill="url(#aurora)"/>
+      <rect x="678" y="143" width="66" height="5" rx="2.5" fill="#2A3448"/>
+      <rect x="678" y="153" width="50" height="5" rx="2.5" fill="#2A3448"/>
+      <rect x="734" y="150" width="24" height="16" rx="4" fill="#161E2E" stroke="#67E8F9" stroke-opacity="0.55" stroke-width="1"/>
+      <!-- Drafting dimension ticks -->
+      <circle cx="668" cy="106" r="2.5" fill="#67E8F9"/>
+      <circle cx="768" cy="178" r="2.5" fill="#B06AB3"/>
+      <text x="774" y="182" class="mono" font-size="9" fill="#6E7681">UI.v2</text>
+      <text x="638" y="102" class="mono" font-size="9" fill="#6E7681">40px</text>
+    </g>
+  </g>
+
+  <!-- Outer Frame Border -->
+  <rect x="1" y="1" width="858" height="238" rx="16" stroke="#2A3448" stroke-width="1.2"/>
+
+  <!-- Architectural Corner Brackets -->
+  <path d="M 16 28 L 16 16 L 28 16" stroke="#B06AB3" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M 832 16 L 844 16 L 844 28" stroke="#4568DC" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M 16 212 L 16 224 L 28 224" stroke="#4568DC" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M 832 224 L 844 224 L 844 212" stroke="#B06AB3" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- Header Spec Bar -->
+  <text x="44" y="39" class="mono" font-size="11" font-weight="600" letter-spacing="1.4" fill="#67E8F9">01 // CYBERNETICX.SKETCH</text>
+
+  <!-- Availability Pill -->
+  <rect x="634" y="22" width="192" height="26" rx="13" fill="#131924" stroke="#2A3448" stroke-width="1"/>
+  <circle cx="650" cy="35" r="4" fill="#3FB950" fill-opacity="0.45" class="pulse-ring"/>
+  <circle cx="650" cy="35" r="3.5" fill="#3FB950"/>
+  <text x="662" y="39" class="mono" font-size="11" font-weight="500" fill="#E6EDF3">Open to opportunities</text>
+
+  <!-- Main Wordmark and Copy -->
+  <text x="44" y="84" class="mono" font-size="11" font-weight="600" letter-spacing="2.4" fill="#8B949E">HI THERE, I'M</text>
+  <text x="42" y="138" class="sans" font-size="54" font-weight="800" letter-spacing="-1.4" fill="#F0F6FC">cyberneticx</text>
+
+  <!-- Aurora Signature Rule -->
+  <rect x="44" y="152" width="136" height="3.5" rx="1.75" fill="url(#aurora)"/>
+  <circle cx="188" cy="153.75" r="2" fill="#67E8F9"/>
+
+  <!-- Role Tagline -->
+  <text x="44" y="184" class="sans" font-size="17" font-weight="500" fill="#E6EDF3">
+    Frontend Developer <tspan fill="#B06AB3" font-weight="700">/</tspan> <tspan fill="#8B949E">React · Next.js · Modern UI</tspan>
+  </text>
+
+  <!-- Terminal Sub-line -->
+  <text x="44" y="210" class="mono" font-size="12" fill="#8B949E">
+    <tspan fill="#67E8F9">&gt;</tspan> crafting responsive interfaces &amp; full-stack web experiences<tspan class="cursor" fill="#B06AB3">_</tspan>
+  </text>
+</svg>

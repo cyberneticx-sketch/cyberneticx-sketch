@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="196" viewBox="0 0 860 196" fill="none" role="img" aria-label="GitHub activity and metrics for cyberneticx-sketch">
+  <title>GitHub Activity &amp; Metrics for cyberneticx-sketch</title>
+  <defs>
+    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B06AB3"/>
+      <stop offset="52%" stop-color="#7B6CE6"/>
+      <stop offset="100%" stop-color="#4568DC"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4568DC" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="858" height="194" rx="14"/>
+    </clipPath>
+    <clipPath id="barClip">
+      <rect x="468" y="70" width="356" height="10" rx="5"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="0" y="0" width="860" height="196" fill="#131924"/>
+    <rect x="0" y="0" width="860" height="196" fill="url(#grid)"/>
+    <rect x="0" y="0" width="860" height="2.5" fill="url(#aurora)"/>
+  </g>
+
+  <rect x="1" y="1" width="858" height="194" rx="14" stroke="#2A3448" stroke-width="1.1"/>
+
+  <!-- Left Panel: KPI Metrics -->
+  <text x="32" y="34" class="mono" font-size="11" font-weight="600" letter-spacing="1.4" fill="#67E8F9">05 // GITHUB METRICS</text>
+  <text x="412" y="34" text-anchor="end" class="mono" font-size="10.5" fill="#6E7681">@cyberneticx-sketch</text>
+
+  <!-- KPI Grid (2x2) -->
+  <rect x="32" y="50" width="182" height="56" rx="10" fill="#0D1117" stroke="#2A3448" stroke-width="1"/>
+  <text x="46" y="70" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7681">PUBLIC REPOS</text>
+  <text x="46" y="95" class="sans" font-size="22" font-weight="700" fill="#F0F6FC">6</text>
+
+  <rect x="228" y="50" width="184" height="56" rx="10" fill="#0D1117" stroke="#2A3448" stroke-width="1"/>
+  <text x="242" y="70" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7681">TOTAL STARS</text>
+  <text x="242" y="95" class="sans" font-size="22" font-weight="700" fill="#F0F6FC">0</text>
+
+  <rect x="32" y="118" width="182" height="56" rx="10" fill="#0D1117" stroke="#2A3448" stroke-width="1"/>
+  <text x="46" y="138" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7681">TOTAL FORKS</text>
+  <text x="46" y="163" class="sans" font-size="22" font-weight="700" fill="#F0F6FC">0</text>
+
+  <rect x="228" y="118" width="184" height="56" rx="10" fill="#0D1117" stroke="#2A3448" stroke-width="1"/>
+  <text x="242" y="138" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7681">FOLLOWERS</text>
+  <text x="242" y="163" class="sans" font-size="22" font-weight="700" fill="#F0F6FC">1</text>
+
+  <!-- Vertical Panel Divider -->
+  <line x1="440" y1="22" x2="440" y2="174" stroke="#2A3448" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Right Panel: Language Mix -->
+  <text x="468" y="34" class="mono" font-size="11" font-weight="600" letter-spacing="1.4" fill="#B06AB3">// TOP LANGUAGES</text>
+  <text x="824" y="34" text-anchor="end" class="mono" font-size="10" fill="#6E7681">SYNCED 2026-11-22</text>
+
+  <text x="468" y="57" class="sans" font-size="12" fill="#8B949E">Calculated across non-fork public repositories</text>
+
+  <rect x="468" y="70" width="356" height="10" rx="5" fill="#1E2736"/>
+  <g clip-path="url(#barClip)">
+      <rect x="468" y="70" width="295" height="10" fill="#178600"/>
+      <rect x="763" y="70" width="61" height="10" fill="#6366F1"/>
+  </g>
+
+  <circle cx="473" cy="104" r="4.2" fill="#178600"/>
+  <text x="484" y="108" class="sans" font-size="12.5" font-weight="500" fill="#F0F6FC">C#</text>
+  <text x="630" y="108" text-anchor="end" class="mono" font-size="11.5" fill="#8B949E">83%</text>
+  <circle cx="655" cy="104" r="4.2" fill="#6366F1"/>
+  <text x="666" y="108" class="sans" font-size="12.5" font-weight="500" fill="#F0F6FC">PHP</text>
+  <text x="812" y="108" text-anchor="end" class="mono" font-size="11.5" fill="#8B949E">17%</text>
+</svg>

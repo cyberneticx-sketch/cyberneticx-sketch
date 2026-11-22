@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9E4FA3"/>
+      <stop offset="100%" stop-color="#3B5BDB"/>
+    </linearGradient>
+  </defs>
+  <style>@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  <rect x="4" y="13" width="3.5" height="7.5" rx="1.2" fill="url(#g)"/>
+  <rect x="10.25" y="9" width="3.5" height="11.5" rx="1.2" fill="#0E7490"/>
+  <rect x="16.5" y="4.5" width="3.5" height="16" rx="1.2" fill="url(#g)"/>
+  <line x1="3" y1="21.5" x2="21" y2="21.5" stroke="#3B5BDB" stroke-opacity="0.5" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

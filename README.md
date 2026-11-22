@@ -1,97 +1,199 @@
-<div align="center">
-  <!-- Top Floating Mascot -->
-  <img src="https://raw.githubusercontent.com/7o62/7o62/main/Assets/coding.gif" width="180" alt="Coding Mascot" style="margin-bottom: -25px;" />
+<!-- Cyber-Sketch Aurora GitHub Profile · @cyberneticx-sketch -->
 
-  <!-- Animated Header Banner -->
+<div align="center">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B06AB3,100:4568DC&height=220&section=header&text=Hi%20👋,%20I'm%20cyberneticx&fontSize=52&fontAlignY=36&desc=Frontend%20Developer%20✦%20Crafting%20Digital%20Experiences&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="Cyberneticx Header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img src="./assets/hero-light.svg" width="860" alt="cyberneticx — Frontend Developer" />
   </picture>
-
-  <!-- Dynamic Typing Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=B06AB3&center=true&vCenter=true&width=550&lines=Designing+clean+%26+modern+interfaces...;Building+responsive+web+applications...;Turning+complex+ideas+into+reality...;Always+learning,+always+building..." alt="Typing animation" />
 </div>
 
 <br/>
 
-<!-- Modern Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B06AB3,100:4568DC&height=3&width=80%" alt="Divider" />
-</p>
-
-<!-- Tech Arsenal Section with Tool Names -->
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" height="34" alt="Laptop" /> 
-    ⚡ Digital Arsenal & Tech Stack
-  </h2>
-
-  <!-- Frontend & Languages -->
-  <p><b>Frontend & Languages</b></p>
-  <table>
-    <tr>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/><br/><sub><b>HTML5</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/><br/><sub><b>CSS3</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/><br/><sub><b>React</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/><br/><sub><b>Next.js</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></a></td>
-    </tr>
-  </table>
-
-  <!-- Backend & Database -->
-  <p><b>Backend & Database</b></p>
-  <table>
-    <tr>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/><br/><sub><b>Node.js</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongo" width="45" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/><br/><sub><b>MySQL</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/><br/><sub><b>Java</b></sub></a></td>
-    </tr>
-  </table>
-
-  <!-- Workflow & Tools -->
-  <p><b>Workflow & Tools</b></p>
-  <table>
-    <tr>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux"/><br/><sub><b>Linux</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/><br/><sub><b>Figma</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/><br/><sub><b>VS Code</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/><br/><sub><b>Git</b></sub></a></td>
-      <td align="center" width="80"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/><br/><sub><b>GitHub</b></sub></a></td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+    <img src="./assets/about-light.svg" width="860" alt="About cyberneticx and current focus" />
+  </picture>
 </div>
 
 <br/>
 
-<!-- Modern Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B06AB3,100:4568DC&height=3&width=80%" alt="Divider" />
-</p>
-
-<!-- Achievements & Stats Section -->
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34" height="34" alt="Trophy" /> 
-    Achievements & Metrics
-  </h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img src="./assets/divider-light.svg" width="860" alt="" />
+  </picture>
+</div>
 
-  <!-- Stats & Streak Cards (Reliable and fully color-matched) -->
-  <a href="https://github.com/cyberneticx">
-    <img src="https://github-readme-stats.vercel.app/api?username=cyberneticx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B06AB3&icon_color=4568DC" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberneticx&theme=tokyonight&hide_border=true&background=0D1117&ring=B06AB3&fire=4568DC&currStreakLabel=B06AB3" height="150" alt="GitHub Streak" />
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/projects-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/projects-light.svg" />
+    <img src="./assets/icons/projects-light.svg" width="20" height="20" alt="" />
+  </picture>
+  &nbsp;Featured Sketches &amp; Projects
+</h2>
+
+<!-- PROJECTS:START -->
+<p align="center">
+  <a href="https://github.com/cyberneticx-sketch/Villanueva---First-Laboratory-Exam">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-1-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/generated/project-1-light.svg" />
+      <img src="./assets/generated/project-1-light.svg" width="416" alt="Villanueva---First-Laboratory-Exam — C#" />
+    </picture>
+  </a>
+  <a href="https://github.com/cyberneticx-sketch/VILLANUEVA_Activity-Home-Sales-">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-2-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/generated/project-2-light.svg" />
+      <img src="./assets/generated/project-2-light.svg" width="416" alt="VILLANUEVA_Activity-Home-Sales- — C#" />
+    </picture>
+  </a>
+  <a href="https://github.com/cyberneticx-sketch/php-lab">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-3-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/generated/project-3-light.svg" />
+      <img src="./assets/generated/project-3-light.svg" width="416" alt="php-lab — PHP" />
+    </picture>
+  </a>
+</p>
+<!-- PROJECTS:END -->
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img src="./assets/divider-light.svg" width="860" alt="" />
+  </picture>
+</div>
+
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/stack-light.svg" />
+    <img src="./assets/icons/stack-light.svg" width="20" height="20" alt="" />
+  </picture>
+  &nbsp;Digital Arsenal &amp; Tech Stack
+</h2>
+
+<div align="center">
+  <p><b>Frontend &amp; Languages</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark&amp;perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=light&amp;perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=light&amp;perline=7" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+  </picture>
+  <p><sub><code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Tailwind CSS</code></sub></p>
+
+  <br/>
+
+  <p><b>Backend &amp; Database</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,mongo,mysql,java&amp;theme=dark&amp;perline=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,mongo,mysql,java&amp;theme=light&amp;perline=4" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,mysql,java&amp;theme=light&amp;perline=4" alt="Node.js, MongoDB, MySQL, Java" />
+  </picture>
+  <p><sub><code>Node.js</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>Java</code></sub></p>
+
+  <br/>
+
+  <p><b>Workflow &amp; Tools</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,figma,vscode,git,github&amp;theme=dark&amp;perline=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,figma,vscode,git,github&amp;theme=light&amp;perline=5" />
+    <img src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github&amp;theme=light&amp;perline=5" alt="Linux, Figma, VS Code, Git, GitHub" />
+  </picture>
+  <p><sub><code>Linux</code> · <code>Figma</code> · <code>VS Code</code> · <code>Git</code> · <code>GitHub</code></sub></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img src="./assets/divider-light.svg" width="860" alt="" />
+  </picture>
+</div>
+
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/metrics-light.svg" />
+    <img src="./assets/icons/metrics-light.svg" width="20" height="20" alt="" />
+  </picture>
+  &nbsp;GitHub Activity &amp; Metrics
+</h2>
+
+<div align="center">
+  <a href="https://github.com/cyberneticx-sketch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-light.svg" />
+      <img src="./assets/generated/stats-light.svg" width="860" alt="GitHub Activity &amp; Metrics for cyberneticx-sketch" />
+    </picture>
   </a>
 </div>
 
 <br/>
 
-<!-- Modern Gradient Divider -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+    <img src="./assets/divider-light.svg" width="860" alt="" />
+  </picture>
+</div>
+
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/connect-light.svg" />
+    <img src="./assets/icons/connect-light.svg" width="20" height="20" alt="" />
+  </picture>
+  &nbsp;Let's Connect
+</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B06AB3,100:4568DC&height=3&width=80%" alt="Divider" />
+  <a href="https://github.com/cyberneticx-sketch">
+    <img src="https://img.shields.io/badge/GitHub-cyberneticx--sketch-4568DC?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/cyberneticx-sketch?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore%20Work-B06AB3?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Explore Repositories" />
+  </a>
+  <!-- Uncomment and replace URLs below when ready to publish additional contact channels:
+  &nbsp;
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-7B6CE6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-4568DC?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/your-handle">
+    <img src="https://img.shields.io/badge/X-Follow-1F2328?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
+  </a>
+  -->
 </p>
 
-<!-- Footer (Fixed URL-encoding for emojis and special characters) -->
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=4568DC&center=true&vCenter=true&width=450&lines=Made+with+coffee+and+code;Let%27s+connect+and+build+together!" alt="Footer Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img src="./assets/footer-light.svg" width="860" alt="cyberneticx-sketch footer" />
+  </picture>
 </div>

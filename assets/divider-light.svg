@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="24" viewBox="0 0 860 24" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="lineLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D0D7DE" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#3B5BDB" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#9E4FA3" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="lineRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9E4FA3" stop-opacity="0.85"/>
+      <stop offset="35%" stop-color="#3B5BDB" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D0D7DE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="diamond" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9E4FA3"/>
+      <stop offset="100%" stop-color="#3B5BDB"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <line x1="24" y1="12" x2="408" y2="12" stroke="url(#lineLeft)" stroke-width="1.25"/>
+  <line x1="452" y1="12" x2="836" y2="12" stroke="url(#lineRight)" stroke-width="1.25"/>
+  <circle cx="416" cy="12" r="1.5" fill="#0E7490" fill-opacity="0.75"/>
+  <polygon points="430,6 436,12 430,18 424,12" fill="url(#diamond)"/>
+  <circle cx="444" cy="12" r="1.5" fill="#0E7490" fill-opacity="0.75"/>
+</svg>

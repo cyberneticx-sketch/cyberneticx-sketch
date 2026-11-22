@@ -1,0 +1,42 @@
+name: Update Profile Metrics & Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/generate-profile-svgs.mjs'
+      - '.github/workflows/update-profile.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate Cyber-Sketch SVGs and sync featured projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: cyberneticx-sketch
+        run: node .github/scripts/generate-profile-svgs.mjs
+
+      - name: Commit updated profile assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile metrics and featured projects"
+            git push
+          fi

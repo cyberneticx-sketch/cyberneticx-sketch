@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B06AB3"/>
+      <stop offset="100%" stop-color="#4568DC"/>
+    </linearGradient>
+  </defs>
+  <style>@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  <path d="M 8 7 L 3 12.5 L 8 18" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 16 7 L 21 12.5 L 16 18" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="13.5" y1="6" x2="10.5" y2="19" stroke="#67E8F9" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
