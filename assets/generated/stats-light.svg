@@ -46,7 +46,7 @@
 
   <rect x="32" y="118" width="182" height="56" rx="10" fill="#F8FAFC" stroke="#D0D7DE" stroke-width="1"/>
   <text x="46" y="138" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7781">CONTRIBUTIONS (1Y)</text>
-  <text x="46" y="163" class="sans" font-size="22" font-weight="700" fill="#1F2328">27</text>
+  <text x="46" y="163" class="sans" font-size="22" font-weight="700" fill="#1F2328">28</text>
 
   <rect x="228" y="118" width="184" height="56" rx="10" fill="#F8FAFC" stroke="#D0D7DE" stroke-width="1"/>
   <text x="242" y="138" class="mono" font-size="10" letter-spacing="0.8" fill="#6E7781">FOLLOWERS</text>
@@ -57,7 +57,7 @@
 
   <!-- Right Panel: Language Mix -->
   <text x="468" y="34" class="mono" font-size="11" font-weight="600" letter-spacing="1.4" fill="#9E4FA3">// TOP LANGUAGES</text>
-  <text x="824" y="34" text-anchor="end" class="mono" font-size="10" fill="#6E7781">SYNCED 2026-11-22</text>
+  <text x="824" y="34" text-anchor="end" class="mono" font-size="10" fill="#6E7781">SYNCED 2026-11-23</text>
 
   <text x="468" y="57" class="sans" font-size="12" fill="#57606A">Calculated across non-fork public repositories</text>
 
